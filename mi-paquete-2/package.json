@@ -1,0 +1,15 @@
+{
+  "name": "mi-paquete-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Johan Mendoza",
+  "license": "ISC",
+  "description": "Mi segundo paquete de Node.js",
+  "devDependencies": {
+    "express": "^4.21.0"
+  }
+}
